@@ -1,0 +1,1 @@
+# Abstarct-class-in-java
